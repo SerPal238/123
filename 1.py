@@ -1,6 +1,6 @@
 from random import random
 from random import randint
-n = int(input("Размерность массива - "))
+n = int(input("Р Р°Р·РјРµСЂРЅРѕСЃС‚СЊ РјР°СЃСЃРёРІР° - "))
 a = [0] * n
 for i in range(n):
     a[i] = randint(0,100) + random()
